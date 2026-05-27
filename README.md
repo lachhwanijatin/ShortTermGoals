@@ -1,0 +1,246 @@
+# Next 3 month goals
+
+- [ ] Update Resume
+- [ ] Keerti Purswani course 1
+  - [ ] Video 1
+  - [ ] Video 2
+  - [ ] Video 3
+  - [ ] Video 4
+  - [ ] Video 5
+  - [ ] Video 6
+- [ ] Keerti Purswani course 2
+  - [ ] Video 1
+  - [ ] Video 2
+  - [ ] Video 3
+  - [ ] Video 4
+  - [ ] Video 5
+  - [ ] Video 6
+  - [ ] Video 7
+  - [ ] Video 8
+  - [ ] Video 9
+  - [ ] Video 10
+  - [ ] Video 11
+  - [ ] Video 12
+- [ ] Low latency book
+  - [ ] Chapter 1: Introducing Low Latency Application Development in C++
+  - [ ] Chapter 2: Designing Some Common Low Latency Applications in C++
+  - [ ] Chapter 3: Exploring C++ Concepts from A Low-Latency Application’s Perspective (IMPORTANT)
+  - [ ] Chapter 4: Building the C++ Building Blocks for Low Latency Applications (IMPORTANT)
+  - [ ] Chapter 5: Designing Our Trading Ecosystem
+  - [ ] Chapter 6: Building the C++ Matching Engine (IMPORTANT)
+  - [ ] Chapter 7: Communicating with Market Participants
+  - [ ] Chapter 8: Processing Market Data and Sending Orders to the Exchange in C++ (IMPORTANT)
+  - [ ] Chapter 9: Building the C++ Trading Algorithm’s Building Blocks (IMPORTANT)
+  - [ ] Chapter 10: Building the C++ Market Making and Liquidity Taking Algorithms
+  - [ ] Chapter 11: Adding Instrumentation and Measuring Performance
+  - [ ] Chapter 12: Analyzing and Optimizing the Performance of Our C++ System (IMPORTANT)
+- [ ] 150 Leet code problems
+  - [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+  - [ ] [Remove Element](https://leetcode.com/problems/remove-element/)
+  - [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - [ ] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+  - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
+  - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+  - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - [ ] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+  - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+  - [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+  - [ ] [H-Index](https://leetcode.com/problems/h-index/)
+  - [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+  - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  - [ ] [Gas Station](https://leetcode.com/problems/gas-station/)
+  - [ ] [Candy](https://leetcode.com/problems/candy/)
+  - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+  - [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+  - [ ] [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+  - [ ] [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+  - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  - [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+  - [ ] [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+  - [ ] [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+  - [ ] [Text Justification](https://leetcode.com/problems/text-justification/)
+  - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+  - [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+  - [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+  - [ ] [3Sum](https://leetcode.com/problems/3sum/)
+  - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+  - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  - [ ] [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+  - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+  - [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+  - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+  - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+  - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+  - [ ] [Game of Life](https://leetcode.com/problems/game-of-life/)
+  - [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
+  - [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+  - [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/)
+  - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+  - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+  - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+  - [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
+  - [ ] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+  - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+  - [ ] [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+  - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+  - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+  - [ ] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+  - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+  - [ ] [Simplify Path](https://leetcode.com/problems/simplify-path/)
+  - [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
+  - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+  - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+  - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+  - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+  - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+  - [ ] [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+  - [ ] [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+  - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+  - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+  - [ ] [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+  - [ ] [Rotate List](https://leetcode.com/problems/rotate-list/)
+  - [ ] [Partition List](https://leetcode.com/problems/partition-list/)
+  - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
+  - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+  - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
+  - [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+  - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+  - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+  - [ ] [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+  - [ ] [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+  - [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+  - [ ] [Path Sum](https://leetcode.com/problems/path-sum/)
+  - [ ] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+  - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+  - [ ] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+  - [ ] [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+  - [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-binary-tree/)
+  - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+  - [ ] [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+  - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+  - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+  - [ ] [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+  - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+  - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+  - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+  - [ ] [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+  - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
+  - [ ] [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+  - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+  - [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+  - [ ] [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
+  - [ ] [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+  - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
+  - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+  - [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+  - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+  - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+  - [ ] [Combinations](https://leetcode.com/problems/combinations/)
+  - [ ] [Permutations](https://leetcode.com/problems/permutations/)
+  - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+  - [ ] [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+  - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+  - [ ] [Word Search](https://leetcode.com/problems/word-search/)
+  - [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+  - [ ] [Sort List](https://leetcode.com/problems/sort-list/)
+  - [ ] [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
+  - [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+  - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - [ ] [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+  - [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+  - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+  - [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+  - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+  - [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+  - [ ] [IPO](https://leetcode.com/problems/ipo/)
+  - [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+  - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+  - [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
+  - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+  - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+  - [ ] [Single Number](https://leetcode.com/problems/single-number/)
+  - [ ] [Single Number II](https://leetcode.com/problems/single-number-ii/)
+  - [ ] [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+  - [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+  - [ ] [Plus One](https://leetcode.com/problems/plus-one/)
+  - [ ] [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+  - [ ] [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+  - [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+  - [ ] [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+  - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+  - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+  - [ ] [Word Break](https://leetcode.com/problems/word-break/)
+  - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+  - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+  - [ ] [Triangle](https://leetcode.com/problems/triangle/)
+  - [ ] [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+  - [ ] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+  - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+  - [ ] [Interleaving String](https://leetcode.com/problems/interleaving-string/)
+  - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance/)
+  - [ ] [Maximal Square](https://leetcode.com/problems/maximal-square/)
+- [ ] Concurrency in Action
+  - [ ] Chapter 1: Hello, world of concurrency in C++!
+    - [ ] 1.1 What is concurrency?
+    - [ ] 1.2 Why use concurrency?
+    - [ ] 1.3 Concurrency and multithreading in C++
+    - [ ] 1.4 Getting started
+  - [ ] Chapter 2: Managing threads
+    - [ ] 2.1 Basic thread management
+    - [ ] 2.2 Passing arguments to a thread function
+    - [ ] 2.3 Transferring ownership of a thread
+    - [ ] 2.4 Choosing the number of threads at runtime
+    - [ ] 2.5 Identifying threads
+  - [ ] Chapter 3: Sharing data between threads
+    - [ ] 3.1 Problems with sharing data between threads
+    - [ ] 3.2 Avoiding problematic race conditions
+    - [ ] 3.3 Alternative facilities for protecting shared data
+  - [ ] Chapter 4: Synchronizing concurrent operations
+    - [ ] 4.1 Waiting for an event or other condition
+    - [ ] 4.2 Waiting for one-off events with futures
+    - [ ] 4.3 Waiting with a time limit
+    - [ ] 4.4 Using synchronization of operations to simplify code
+  - [ ] Chapter 5: The C++ memory model and operations on atomic types
+    - [ ] 5.1 Memory model basics
+    - [ ] 5.2 Atomic operations and types in C++
+    - [ ] 5.3 Synchronizing operations and enforcing ordering
+  - [ ] Chapter 6: Designing lock-based concurrent data structures
+    - [ ] 6.1 What does it mean to design for concurrency?
+    - [ ] 6.2 Lock-based concurrent data structures
+    - [ ] 6.3 Designing more complex lock-based data structures
+  - [ ] Chapter 7: Designing lock-free concurrent data structures
+    - [ ] 7.1 Definitions and consequences
+    - [ ] 7.2 Examples of lock-free data structures
+    - [ ] 7.3 Guidelines for writing lock-free data structures
+- [ ] LLD
+  - [ ] Introduction
+  - [ ] Object Oriented Programming Recap
+  - [ ] SOLID Principles
+  - [ ] Part-I Behavioural Design Patterns
+  - [ ] Memento Pattern
+  - [ ] Observer Pattern
+  - [ ] Strategy Pattern
+  - [ ] Command Pattern
+  - [ ] Template Method Pattern
+  - [ ] Iterator Pattern
+  - [ ] State Pattern
+  - [ ] Mediator Pattern
+  - [ ] Part-II Creational Design Patterns
+  - [ ] Singleton Pattern
+  - [ ] Factory Design Pattern
+  - [ ] Abstract Factory Pattern
+  - [ ] Builder Design Pattern
+  - [ ] Prototype Pattern
+  - [ ] Part-III Structural Design Patterns
+  - [ ] Adapter Pattern
+  - [ ] Decorator Pattern
+  - [ ] Proxy Pattern
+  - [ ] Composite Pattern
+  - [ ] Facade Pattern
+  - [ ] FlyWeight Pattern
+  - [ ] Additional Patterns
+  - [ ] Project - Ride Sharing App
