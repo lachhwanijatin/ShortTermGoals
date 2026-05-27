@@ -1,6 +1,6 @@
 # Next 3 month goals
 
-- [ ] Update Resume
+## Goals checklist
 - [ ] Keerti Purswani course 1
   - [ ] Video 1
   - [ ] Video 2
@@ -8,32 +8,7 @@
   - [ ] Video 4
   - [ ] Video 5
   - [ ] Video 6
-- [ ] Keerti Purswani course 2
-  - [ ] Video 1
-  - [ ] Video 2
-  - [ ] Video 3
-  - [ ] Video 4
-  - [ ] Video 5
-  - [ ] Video 6
-  - [ ] Video 7
-  - [ ] Video 8
-  - [ ] Video 9
-  - [ ] Video 10
-  - [ ] Video 11
-  - [ ] Video 12
-- [ ] Low latency book
-  - [ ] Chapter 1: Introducing Low Latency Application Development in C++
-  - [ ] Chapter 2: Designing Some Common Low Latency Applications in C++
-  - [ ] Chapter 3: Exploring C++ Concepts from A Low-Latency Application’s Perspective (IMPORTANT)
-  - [ ] Chapter 4: Building the C++ Building Blocks for Low Latency Applications (IMPORTANT)
-  - [ ] Chapter 5: Designing Our Trading Ecosystem
-  - [ ] Chapter 6: Building the C++ Matching Engine (IMPORTANT)
-  - [ ] Chapter 7: Communicating with Market Participants
-  - [ ] Chapter 8: Processing Market Data and Sending Orders to the Exchange in C++ (IMPORTANT)
-  - [ ] Chapter 9: Building the C++ Trading Algorithm’s Building Blocks (IMPORTANT)
-  - [ ] Chapter 10: Building the C++ Market Making and Liquidity Taking Algorithms
-  - [ ] Chapter 11: Adding Instrumentation and Measuring Performance
-  - [ ] Chapter 12: Analyzing and Optimizing the Performance of Our C++ System (IMPORTANT)
+
 - [ ] 150 Leet code problems
   - [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   - [ ] [Remove Element](https://leetcode.com/problems/remove-element/)
@@ -183,6 +158,23 @@
   - [ ] [Interleaving String](https://leetcode.com/problems/interleaving-string/)
   - [ ] [Edit Distance](https://leetcode.com/problems/edit-distance/)
   - [ ] [Maximal Square](https://leetcode.com/problems/maximal-square/)
+
+- [ ] Keerti Purswani course 2
+  - [ ] Video 1
+  - [ ] Video 2
+  - [ ] Video 3
+  - [ ] Video 4
+  - [ ] Video 5
+  - [ ] Video 6
+  - [ ] Video 7
+  - [ ] Video 8
+  - [ ] Video 9
+  - [ ] Video 10
+  - [ ] Video 11
+  - [ ] Video 12
+
+- [ ] Update Resume and start applying
+
 - [ ] Concurrency in Action
   - [ ] Chapter 1: Hello, world of concurrency in C++!
     - [ ] 1.1 What is concurrency?
@@ -216,6 +208,7 @@
     - [ ] 7.1 Definitions and consequences
     - [ ] 7.2 Examples of lock-free data structures
     - [ ] 7.3 Guidelines for writing lock-free data structures
+
 - [ ] LLD
   - [ ] Introduction
   - [ ] Object Oriented Programming Recap
@@ -244,3 +237,17 @@
   - [ ] FlyWeight Pattern
   - [ ] Additional Patterns
   - [ ] Project - Ride Sharing App
+
+- [ ] Low latency book
+  - [ ] Chapter 1: Introducing Low Latency Application Development in C++
+  - [ ] Chapter 2: Designing Some Common Low Latency Applications in C++
+  - [ ] Chapter 3: Exploring C++ Concepts from A Low-Latency Application’s Perspective (IMPORTANT)
+  - [ ] Chapter 4: Building the C++ Building Blocks for Low Latency Applications (IMPORTANT)
+  - [ ] Chapter 5: Designing Our Trading Ecosystem
+  - [ ] Chapter 6: Building the C++ Matching Engine (IMPORTANT)
+  - [ ] Chapter 7: Communicating with Market Participants
+  - [ ] Chapter 8: Processing Market Data and Sending Orders to the Exchange in C++ (IMPORTANT)
+  - [ ] Chapter 9: Building the C++ Trading Algorithm’s Building Blocks (IMPORTANT)
+  - [ ] Chapter 10: Building the C++ Market Making and Liquidity Taking Algorithms
+  - [ ] Chapter 11: Adding Instrumentation and Measuring Performance
+  - [ ] Chapter 12: Analyzing and Optimizing the Performance of Our C++ System (IMPORTANT)
