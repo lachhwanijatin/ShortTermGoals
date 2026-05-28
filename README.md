@@ -2,7 +2,7 @@
 
 ## Goals checklist
 - [ ] Keerti Purswani course 1
-  - [ ] Video 1
+  - [x] Video 1 : [vid1](kp_course1/vid1_templates.md)
   - [ ] Video 2
   - [ ] Video 3
   - [ ] Video 4
